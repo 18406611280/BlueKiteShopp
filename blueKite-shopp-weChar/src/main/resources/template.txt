@@ -1,0 +1,23 @@
+//发送消息模板
+{
+    "toUser": "o_hTM1Vap0nB4uBT0DnXvMcF1we4",
+    "templateId": "jmGAUJhtzFeQWh_8n7fo3RJcYLOY2iMwp5lmABwUa7A",
+    "url": "http://www.itmayiedu.com",
+    "data": [
+        {
+            "name": "first",
+            "value": "2017年11月06日 23:32",
+            "color": "#173177"
+        },
+        {
+            "name": "two",
+            "value": "性感内衣",
+            "color": "#173177"
+        },
+        {
+            "name": "three",
+            "value": "288",
+            "color": "#173177"
+        }
+    ]
+}
