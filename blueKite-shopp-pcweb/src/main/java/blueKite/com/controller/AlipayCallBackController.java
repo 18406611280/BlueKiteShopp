@@ -87,7 +87,7 @@ public class AlipayCallBackController {
 	@ResponseBody
 	public String AsyncCallBack(HttpServletRequest request) {
 		try {
-			//获取支付宝GET过来反馈信息
+			//获取支付宝GET过来反馈信息。
 			Map<String,String> params = new HashMap<String,String>();
 			Map<String,String[]> requestParams = request.getParameterMap();
 			for (Iterator<String> iter = requestParams.keySet().iterator(); iter.hasNext();) {
