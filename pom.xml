@@ -172,14 +172,6 @@
 			</dependency>
 		</dependencies>
 	</dependencyManagement>
-	<build>
-		<plugins>
-			<plugin>
-				<groupId>org.springframework.boot</groupId>
-				<artifactId>spring-boot-maven-plugin</artifactId>
-			</plugin>
-		</plugins>
-	</build>
 	<repositories>
 		<repository>
 			<id>spring-milestones</id>
@@ -198,7 +190,6 @@
 		<module>blueKite-shopp-member</module>
 		<module>blueKite-shopp-message</module>
 		<module>blueKite-shopp-pcweb</module>
-		<module>blueKite-shopp-weixin</module>
 		<module>blueKite-shopp-weChar</module>
 		<module>blueKite-shopp-pay</module>
 		<module>blueKite-shopp-order</module>

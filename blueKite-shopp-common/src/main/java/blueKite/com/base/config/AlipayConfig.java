@@ -1,4 +1,4 @@
-﻿package blueKite.com.base.config;
+package blueKite.com.base.config;
 
 import java.io.FileWriter;
 import java.io.IOException;

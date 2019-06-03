@@ -15,7 +15,7 @@ import blueKite.com.base.baseEntity.BaseResponse;
 import blueKite.com.base.baseEntity.Constants;
 import blueKite.com.base.baseService.BaseService;
 import blueKite.com.base.baseUtils.TokenUtils;
-import blueKite.com.config.AlipayConfig;
+import blueKite.com.base.config.AlipayConfig;
 import blueKite.com.dao.PaymentInfoDao;
 import blueKite.com.entity.PaymentInfo;
 
